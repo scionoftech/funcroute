@@ -4,13 +4,13 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "funcroute"
-version = "0.1.0"
+version = "0.1.1"
 description = "Intelligent function/tool routing using FunctionGemma"
 readme = "README.md"
 requires-python = ">=3.9"
 license = {text = "MIT"}
 authors = [
-    {name = "FuncRoute Contributors"}
+    {name = "Sai Kumar Yava"}
 ]
 keywords = [
     "function-calling",
@@ -73,10 +73,10 @@ all = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/yourusername/funcroute"
-Documentation = "https://github.com/yourusername/funcroute/blob/main/README.md"
-Repository = "https://github.com/yourusername/funcroute"
-"Bug Tracker" = "https://github.com/yourusername/funcroute/issues"
+Homepage = "https://github.com/scionoftech/funcroute"
+Documentation = "https://github.com/scionoftech/funcroute/blob/main/README.md"
+Repository = "https://github.com/scionoftech/funcroute"
+"Bug Tracker" = "https://github.com/scionoftech/funcroute/issues"
 
 [project.scripts]
 funcroute = "funcroute.cli:main"
