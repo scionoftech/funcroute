@@ -549,9 +549,6 @@ MIT License - see [LICENSE](LICENSE) for details.
 ## 🙏 Acknowledgments
 
 - **Google FunctionGemma**: Base model ([google/functiongemma-270m-it](https://huggingface.co/google/functiongemma-270m-it))
-- **Pre-trained Model**: E-commerce model by [functiongemma-e-commerce-tool-calling](https://huggingface.co/scionoftech/functiongemma-e-commerce-tool-calling)
-- **Inspiration**: Based on train.py e-commerce routing example
-- **Community**: Thanks to all contributors and users
 
 **Upcoming v0.2:**
 - 🔄 Streaming inference improvements
